@@ -1,5 +1,7 @@
 package random
 
+//Судя по названию, тут что-то рандомное происходит.
+
 import (
 	"math/rand"
 	"time"
