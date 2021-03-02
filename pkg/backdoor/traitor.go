@@ -1,5 +1,7 @@
 package backdoor
 
+//Да кто такой это ваш Go
+
 import (
 	"fmt"
 	"io/ioutil"
