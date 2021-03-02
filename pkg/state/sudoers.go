@@ -1,5 +1,7 @@
 package state
 
+//Интересно, что он импротирует чуть ниже?
+
 import (
 	"fmt"
 	"os/exec"
