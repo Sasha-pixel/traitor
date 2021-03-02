@@ -1,5 +1,7 @@
 package state
 
+//Зачем каждый раз делать 3 коммита??????
+
 import "os"
 
 type State struct {
